@@ -11,6 +11,3 @@ I bet nearly every person on the Internet over the age of 25 has used something 
 I actually did mispell that 👆 when writing the header. After all my years of programning, I still suck. That's why I love engineering: working on puzzles, solving mysteries and endless opportunities to learn something new. I work hard every day to get better, learning from others while trying to pass on what I've learned. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscow&count_private=true)](https://github.com/chriscow/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chriscow&&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true)
-
